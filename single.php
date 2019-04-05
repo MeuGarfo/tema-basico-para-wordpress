@@ -18,7 +18,7 @@
             print '<b>Anderson Ismael, '.get_the_date().'</b><br><br>'.PHP_EOL;
             the_content();
         }
-        print '<p><a href="/">Voltar</a></p>'.PHP_EOL;
+        print '<p><a href="/">Ir para a página principal</a></p>'.PHP_EOL;
     }
     ?>
 </body>
