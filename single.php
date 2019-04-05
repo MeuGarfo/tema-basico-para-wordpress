@@ -15,7 +15,7 @@
             the_post();
             edit_post_link(__('Editar'));
             print '<h1>'.get_the_title().'</h1>'.PHP_EOL;
-            print '<b>Anderson Ismael, '.get_the_date().'</b><br><br>'.PHP_EOL;
+            print '<b>'.get_the_author().', '.get_the_date().'</b><br><br>'.PHP_EOL;
             the_content();
         }
         print '<p><a href="/">Ir para a página principal</a></p>'.PHP_EOL;
