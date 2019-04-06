@@ -6,6 +6,8 @@
     <link rel="apple-touch-icon-precomposed" sizes="410x410" href="<?php bloginfo('template_url');?>/screenshot.jpg">
     <link rel="shortcut icon" href="<?php bloginfo('template_url');?>/screenshot.jpg">
     <meta property="og:image" content="<?php bloginfo('template_url');?>/screenshot.jpg">    
+    <meta content="<?php bloginfo('template_url');?>/screenshot.jpg" name="twitter:image:src"/>
+    <meta content="<?php bloginfo('name'); ?>" name='twitter:title'/>
 </head>
 <body>
     <h1><?php bloginfo('name'); ?></h1>
