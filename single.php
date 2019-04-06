@@ -9,7 +9,7 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@aicouto" />
     <meta name="twitter:title" content="<?php the_title(); ?>" />
-    <meta name="twitter:description" content="<?php the_title(); ?>" />
+    <meta name="twitter:description" content="" />
     <meta name="twitter:image" content="<?php bloginfo('template_url');?>/screenshot.jpg" />
 </head>
 <body>
