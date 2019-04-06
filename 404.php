@@ -7,7 +7,7 @@
     <link rel="shortcut icon" href="<?php bloginfo('template_url');?>/screenshot.jpg">
     <meta property="og:image" content="<?php bloginfo('template_url');?>/screenshot.jpg">
     <meta content="<?php bloginfo('template_url');?>/screenshot.jpg" name="twitter:image:src"/>
-    <meta content="Erro 404" name='twitter:title'/>
+    <meta content="Erro 404" name="twitter:title"/>
 </head>
 <body>
     <h1>Erro 404</h1>
