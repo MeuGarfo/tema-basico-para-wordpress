@@ -18,6 +18,11 @@
     <div class="container-fluid">
         <div class="row-fluid">
             <div class="span6 offset3">
+                <ul class="pager">
+                    <li>
+                        <a href="/">Anderson Ismael</a>
+                    </li>
+                </ul>
                 <h1 class="text-center">Erro 404</h1>
                 <p>Página não encontrada</p>
                 <ul class="pager">

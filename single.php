@@ -26,6 +26,11 @@
     <div class="container-fluid">
         <div class="row-fluid">
             <div class="span6 offset3">
+                <ul class="pager">
+                    <li>
+                        <a href="/">Anderson Ismael</a>
+                    </li>
+                </ul>
                 <?php
                 //https://developer.wordpress.org/reference/functions/get_the_content/
                 if ( have_posts() ) {
