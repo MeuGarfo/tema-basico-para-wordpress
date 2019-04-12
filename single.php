@@ -41,7 +41,9 @@
                         print '<h1>'.get_the_title().'</h1>'.PHP_EOL;
                         print '<b>'.get_the_author().', '.get_the_date().'</b><br><br>'.PHP_EOL;
                         print '</div><!--text-center-->';
+                        print '<div class="text-justify">';
                         the_content();
+                        print '</div>';
                     }
                 }
                 ?>
