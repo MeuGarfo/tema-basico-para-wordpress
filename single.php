@@ -20,11 +20,12 @@
     }
     ?>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.2/css/bootstrap-responsive.min.css" />
 </head>
 <body>
     <div class="container-fluid">
         <div class="row-fluid">
-            <div class="span8 offset2">
+            <div class="span6 offset3">
                 <?php
                 //https://developer.wordpress.org/reference/functions/get_the_content/
                 if ( have_posts() ) {
@@ -38,9 +39,9 @@
                 }
                 ?>
                 <ul class="pager">
-                  <li class="previous">
-                    <a href="/">Página principal</a>
-                  </li>
+                    <li class="previous">
+                        <a href="/">Página principal</a>
+                    </li>
                 </ul>
             </div>
         </div>
