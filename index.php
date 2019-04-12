@@ -18,7 +18,7 @@
     <div class="container-fluid">
         <div class="row-fluid">
             <div class="span6 offset3">
-                <h1><?php bloginfo('name'); ?></h1>
+                <h1 class="text-center"><?php bloginfo('name'); ?></h1>
                 <?php
                 if ( have_posts() ) {
                     print '<ul class="nav nav-tabs nav-stacked">'.PHP_EOL;

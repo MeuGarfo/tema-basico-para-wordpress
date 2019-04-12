@@ -32,15 +32,17 @@
                     while ( have_posts() ) {
                         the_post();
                         edit_post_link(__('Editar'));
+                        print '<div class="text-center">';
                         print '<h1>'.get_the_title().'</h1>'.PHP_EOL;
                         print '<b>'.get_the_author().', '.get_the_date().'</b><br><br>'.PHP_EOL;
+                        print '</div><!--text-center-->';
                         the_content();
                     }
                 }
                 ?>
                 <ul class="pager">
-                    <li class="previous">
-                        <a href="/">Página principal</a>
+                    <li>
+                        <a href="/">aicouto.com</a>
                     </li>
                 </ul>
             </div>

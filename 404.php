@@ -18,11 +18,11 @@
     <div class="container-fluid">
         <div class="row-fluid">
             <div class="span6 offset3">
-                <h1>Erro 404</h1>
+                <h1 class="text-center">Erro 404</h1>
                 <p>Página não encontrada</p>
                 <ul class="pager">
-                    <li class="previous">
-                        <a href="/">Página principal</a>
+                    <li>
+                        <a href="/">aicouto.com</a>
                     </li>
                 </ul>
             </div>
