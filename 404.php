@@ -22,7 +22,7 @@
                 <p>Página não encontrada</p>
                 <ul class="pager">
                     <li>
-                        <a href="/">aicouto.com</a>
+                        <a href="/">Anderson Ismael</a>
                     </li>
                 </ul>
             </div>
