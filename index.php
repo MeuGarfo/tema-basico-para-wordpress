@@ -2,7 +2,7 @@
 <html <?php language_attributes(); ?>>
 <head>
     <title><?php bloginfo('name'); ?></title>
-    <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
+    <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>?v1">
     <link rel="apple-touch-icon-precomposed" sizes="410x410" href="<?php bloginfo('template_url');?>/screenshot.jpg">
     <link rel="shortcut icon" href="<?php bloginfo('template_url');?>/screenshot.jpg">
     <meta property="og:image" content="<?php bloginfo('template_url');?>/screenshot.jpg">
