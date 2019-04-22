@@ -55,7 +55,21 @@
             </div>
         </div>
     </div>
-<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101176027);</script>
-<script async src="//static.getclicky.com/js"></script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101176027ns.gif" /></p></noscript>
+<!-- Default Statcounter code for aicouto.com
+https://aicouto.com -->
+<script type="text/javascript">
+var sc_project=11977201; 
+var sc_invisible=1; 
+var sc_security="4c36fafe"; 
+var sc_https=1; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="free hit
+counter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/11977201/0/4c36fafe/1/"
+alt="free hit counter"></a></div></noscript>
+<!-- End of Statcounter Code -->
 </body>
