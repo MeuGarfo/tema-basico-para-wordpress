@@ -57,21 +57,18 @@
             </div>
         </div>
     </div>
-<!-- Default Statcounter code for aicouto.com
-https://aicouto.com -->
-<script type="text/javascript">
-var sc_project=11977201; 
-var sc_invisible=1; 
-var sc_security="4c36fafe"; 
-var sc_https=1; 
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(53403550, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
 </script>
-<script type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js"
-async></script>
-<noscript><div class="statcounter"><a title="free hit
-counter" href="https://statcounter.com/"
-target="_blank"><img class="statcounter"
-src="https://c.statcounter.com/11977201/0/4c36fafe/1/"
-alt="free hit counter"></a></div></noscript>
-<!-- End of Statcounter Code -->
+<noscript><div><img src="https://mc.yandex.ru/watch/53403550" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 </body>
